@@ -16,5 +16,8 @@
     "url": "https://github.com/raza1315/Monitoring/issues"
   },
   "homepage": "https://github.com/raza1315/Monitoring#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "prom-client": "^15.1.3"
+  }
 }
